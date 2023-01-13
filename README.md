@@ -1,6 +1,6 @@
 # Pokédex
 
-<p>Acesse o projeto <a href="#">aqui</a></p>
+<p>Acesse o projeto:</p> https://marcotsf.github.io/pokedex-v2/
 
 ## Descrição
 
