@@ -2,13 +2,6 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-}
-
-main {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, hsla(239, 68%, 37%, 0.459), hsla(251, 28%, 28%, 0.664)), url("../images/background.png");
     /* Chrome 10-25, Safari 5.1-6 */
@@ -16,6 +9,13 @@ main {
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .pokedex {
